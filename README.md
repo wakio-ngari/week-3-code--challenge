@@ -1,6 +1,8 @@
 # TICKET BUYING PROCEDURE.
 ## Movie Theater.
 
+Here is my live link: https://wakio-ngari.github.io/week-3-code--challenge/
+
 It is a simple web-based ticket buying system built with HTML, CSS, and JavaScript.It allows users to browse through a list of movies, view their details, and purchase tickets if available.
   
 ## CONTENTS.
